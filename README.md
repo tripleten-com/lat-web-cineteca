@@ -14,10 +14,11 @@ npm run install:all
 
 ## Cómo levantarlo
 
-Copia las variables de entorno del servidor:
+Copia las variables de entorno:
 
 ```bash
 cp server/.env.example server/.env
+cp client/.env.example client/.env
 ```
 
 Y levanta las dos partes, cada una en su terminal:

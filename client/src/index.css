@@ -35,6 +35,10 @@
 }
 
 @layer base {
+  html {
+    scrollbar-gutter: stable;
+  }
+
   button:not(:disabled) {
     cursor: pointer;
   }

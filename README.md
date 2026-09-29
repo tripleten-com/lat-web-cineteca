@@ -39,4 +39,4 @@ El cliente queda en http://localhost:3000 y el servidor en http://localhost:3001
 npm test
 ```
 
-Jest ya está configurado en el cliente. Por ahora el proyecto no tiene ninguna prueba escrita, así que el comando termina sin ejecutar nada.
+Jest ya está configurado en el cliente y en el servidor. Por ahora el proyecto no tiene ninguna prueba escrita, así que el comando termina sin ejecutar nada.

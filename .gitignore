@@ -1,0 +1,11 @@
+node_modules
+dist
+coverage
+*.log
+
+# secretos y datos locales, nunca en el repositorio
+.env
+.env.local
+.env.*.local
+
+.DS_Store
